@@ -1,5 +1,7 @@
 README.md
 
+https://img.shields.io/badge/Intro-Hi%2C%20my%20name%20is%20Artem-yellow%20green
+
 # My Skills
 
 | Skill                | Icon |
