@@ -1,6 +1,7 @@
 README.md
 
 ![Downloads](https://img.shields.io/badge/-Hi%2C%20my%20name%20is%20Artem-yellow%20green)
+![Downloads](https://img.shields.io/badge/-I%20am%20a%20beginner%20data%20scientist%20-yellow)
 
 # My Skills
 
