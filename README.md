@@ -12,6 +12,9 @@ README.md
 | PySpark             | 🎆  |
 | NumPy               |  🔢  |
 | Matplotlib          | 📉 |
+| Scikit-learn        | 🦿 |
+| Pytorch             | 🔦 |
+| RDkit              | ⚛️ |
 | SQL                 |  💾  |
 | Data Analysis       |  📈  |
 | Machine Learning    |  🤖  |
@@ -22,9 +25,10 @@ README.md
 | Jupyter Notebooks   |  📓 |
 | Google Colab        |  ☁️  |
 | Mac Os              |  🐧  |
-| Docker              |  🐳  |
+| Linux               |  🐧  |
 | Microsoft Excel     |  📊 |
 | Microsoft PowerPoint|  📊 |
+
 ## About Me
 
 I am a Biotechnology graduate from MIREA - Russian Technological University with a strong analytical mindset and a passion for data science and bioinformatics. My career began with five years of experience as a Chemistry Tutor, where I developed the ability to break down complex concepts into clear explanations. I then transitioned into industry, working as an Analytical Chemist in a Czech company, gaining hands-on experience in applying scientific knowledge to real-world problems.
