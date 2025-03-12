@@ -1,7 +1,6 @@
 README.md
 
 ![Downloads](https://img.shields.io/badge/-Hi%2C%20my%20name%20is%20Artem-yellow%20green)
-![Downloads](https://img.shields.io/badge/-I%20am%20a%20beginner%20data%20scientist%20-yellow)
 
 # My Skills
 
@@ -27,6 +26,5 @@ README.md
 | Microsoft PowerPoint|  📊 |
 ## About Me
 
-I am a Biotechnology graduate from MIREA - Russian Technological University with a passion for data science. I have experience working as a Chemistry Tutor for 5 years, where I have honed my skills in explaining complex concepts in a clear and concise manner. Currently, I am employed as an Analytical Chemist at a Czech company, where I have gained valuable experience in applying my scientific knowledge in a practical setting.
-
-Recently, I have started to learn technical skills, such as Python, frameworks, and libraries such as pandas, PySpark, numpy, matplotlib, and SQL. I have a strong foundation in scientific principles and analytical thinking, and I am dedicated and passionate about learning new skills and taking on new challenges.
+I am a Biotechnology graduate from MIREA - Russian Technological University with a strong analytical mindset and a passion for data science and bioinformatics. My career began with five years of experience as a Chemistry Tutor, where I developed the ability to break down complex concepts into clear explanations. I then transitioned into industry, working as an Analytical Chemist in a Czech company, gaining hands-on experience in applying scientific knowledge to real-world problems.
+Currently, I am a bioinformatics student at UCT Prague and an intern in the SAP data preprocessing team, where I work with large-scale data and automation. Over time, I have developed strong programming and data analytics skills, working with Python, SQL, and frameworks such as pandas, PySpark, numpy, and matplotlib. My interests lie at the intersection of data science, bioinformatics, and algorithm development, and I am eager to take on new challenges in these fields.
